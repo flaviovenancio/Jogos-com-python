@@ -1,0 +1,9 @@
+cavalo
+abelha
+cachorro
+foca
+urso
+gato
+rato
+elefante
+girafa
